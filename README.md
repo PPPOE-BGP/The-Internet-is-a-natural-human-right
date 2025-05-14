@@ -101,3 +101,21 @@ Todas las herramientas están destinadas únicamente a fines educativos y humani
 Thanks to everyone fighting for information freedom.  
 Merci à tous ceux qui défendent la liberté d'information.  
 Gracias a todos los que luchan por la libertad de información.
+---
+
+## 🕊️ 呼吁全球人权组织支持 | Call for Human Rights Organizations
+
+我们诚挚邀请全球关注信息自由、人权和数字主权的非政府组织、研究机构和技术社区加入本项目。
+
+### 🌍 我们正在寻找的合作
+- 项目倡导支持：在全球范围发声；
+- 法律和政策建议：加强合法性保护；
+- 技术支持或资助：扩大工具的可及性；
+- 在极权审查下的信息传播与数字安全培训。
+
+### 📬 联系方式
+请通过 GitHub Issues、Pull Request，或私信发起对话。  
+如果您是人权组织代表，也可使用加密邮箱或联络工具与我们沟通（后续将设立专用通联渠道）。
+
+**我们坚信：互联网的自由流通，是21世纪最基本、最重要的权利之一。**
+
